@@ -42,9 +42,9 @@ This project analyzes telecom customer churn patterns using **Python** and data 
 
 ## 🌄 **Screenshots**  
  
-- **Churn Distribution**:   
-- **Gender Analysis**: Gender Comparison Chart  
-- **Churn Percentage**: Pie Chart  
+- **Churn Distribution**: ![Churn Distribution](image/Count.png)  
+- **Gender Analysis**: ![Gender Analysis](image/Gender.png)    
+- **Churn Percentage**: ![Churn Percentage](image/output.png)    
 
 ---
 
